@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bcwitter/static/css/main.51c00765.chunk.css",
+    "main.js": "/bcwitter/static/js/main.1ebb76a1.chunk.js",
+    "main.js.map": "/bcwitter/static/js/main.1ebb76a1.chunk.js.map",
+    "runtime-main.js": "/bcwitter/static/js/runtime-main.3d97e2e2.js",
+    "runtime-main.js.map": "/bcwitter/static/js/runtime-main.3d97e2e2.js.map",
+    "static/js/2.afba0ada.chunk.js": "/bcwitter/static/js/2.afba0ada.chunk.js",
+    "static/js/2.afba0ada.chunk.js.map": "/bcwitter/static/js/2.afba0ada.chunk.js.map",
+    "index.html": "/bcwitter/index.html",
+    "precache-manifest.6e750bbd26a08a81461730c2a40a20a2.js": "/bcwitter/precache-manifest.6e750bbd26a08a81461730c2a40a20a2.js",
+    "service-worker.js": "/bcwitter/service-worker.js",
+    "static/css/main.51c00765.chunk.css.map": "/bcwitter/static/css/main.51c00765.chunk.css.map",
+    "static/js/2.afba0ada.chunk.js.LICENSE.txt": "/bcwitter/static/js/2.afba0ada.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d97e2e2.js",
+    "static/js/2.afba0ada.chunk.js",
+    "static/css/main.51c00765.chunk.css",
+    "static/js/main.1ebb76a1.chunk.js"
+  ]
+}
